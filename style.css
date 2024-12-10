@@ -1,0 +1,12 @@
+.mcdonalds,.burguerking,.popeyes{
+    width: 200px;
+    display:flex;
+    flex-direction: row;
+    padding: 40px;
+    display:inline;
+}
+
+body{
+text-align: center;
+}
+
